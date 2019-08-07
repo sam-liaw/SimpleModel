@@ -6,11 +6,14 @@
     <Authors>Sam</Authors>
     <Company>My Company</Company>
     <Description>My Simple Model</Description>
-    <Copyright></Copyright>
+    <Copyright>MIT License</Copyright>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/sam-liaw/SimpleModel</PackageProjectUrl>
     <PackageIconUrl>http://image.acmx.xyz/lindexi/2019427172218870</PackageIconUrl>
     <PackageTags>C#, .Net Standard</PackageTags>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
