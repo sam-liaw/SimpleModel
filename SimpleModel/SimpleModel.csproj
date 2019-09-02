@@ -9,11 +9,11 @@
     <Copyright>MIT License</Copyright>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/sam-liaw/SimpleModel</PackageProjectUrl>
-    <PackageIconUrl>http://image.acmx.xyz/lindexi/2019427172218870</PackageIconUrl>
+    <PackageIconUrl>https://chiisen.github.io/image/github.io/cat-icon.png</PackageIconUrl>
     <PackageTags>C#, .Net Standard</PackageTags>
     <AssemblyVersion>1.0.0.2</AssemblyVersion>
     <FileVersion>1.0.0.2</FileVersion>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
   </PropertyGroup>
 
 </Project>
